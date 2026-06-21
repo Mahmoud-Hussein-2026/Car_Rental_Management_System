@@ -91,7 +91,19 @@ The project is built using OOP principles:
 
 ---
 ## 📁 Project Structure
-com.example │ ├── Main.java │ ├── Vehicle (abstract) ├── Car.java ├── Motors.java ├── Truck.java │ ├── Customer (abstract) ├── Person.java ├── Institution.java │ ├── VehiclesManagement.java ├── CustomerManager.java ├── Rentals.java ├── RentalsManager.java
+com.example │ 
+├── [Main.java](./Main.java) │ 
+├── [Vehicle.java](./Vehicle.java)
+├── [Car.java](./Car.java)
+├──[Motors.java](./Motors.java)
+├── [Truck.java](./Truck.java)│ 
+├──[Customer.java](./Customer.java)
+├──[Person.java](./Person.java)
+├── [Institution.java](./Institution.java)│ 
+├──[VehiclesManagement.java](./VehiclesManagement.java)
+├── [CustomerManager.java](./CustomerManager.java)
+├── [Rentals.java](./Rentals.java)
+├── [RentalsManager.java](./RentalsManager.java)
 ---
 
 ## ⚙️ How It Works
