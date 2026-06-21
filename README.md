@@ -63,19 +63,20 @@ The project is built using OOP principles:
 - ArrayList Collections
 ---
 ## 📁 Project Structure
-com.example │ 
-├── [Main.java](./Main.java) │ 
-├── [Vehicle.java](./Vehicle.java)
-├── [Car.java](./Car.java)
-├──[Motors.java](./Motors.java)
-├── [Truck.java](./Truck.java)│ 
-├──[Customer.java](./Customer.java)
-├──[Person.java](./Person.java)
-├── [Institution.java](./Institution.java)│ 
-├──[VehiclesManagement.java](./VehiclesManagement.java)
-├── [CustomerManager.java](./CustomerManager.java)
-├── [Rentals.java](./Rentals.java)
-├── [RentalsManager.java](./RentalsManager.java)
+* 📄 **[Main.java](./Main.java)**: The main execution gateway managing the interactive multi-level console menus.
+* 📂 **Models (Domain Domain Layer):**
+  * 📄 **[Vehicle.java](./Vehicle.java)**: Abstract base class representing core vehicle metadata.
+  * 📄 **[Car.java](./Car.java)**: Handles standard vehicle specifications, including fuel and comfort features.
+  * 📄 **[Motors.java](./Motors.java)**: Manages motorcycle profiles and sidecar additions.
+  * 📄 **[Truck.java](./Truck.java)**: Manages heavy transport vehicle profiles and refrigeration capabilities.
+  * 📄 **[Customer.java](./Customer.java)**: Abstract representation of a system client with built-in regex-like validations.
+  * 📄 **[Person.java](./Person.java)**: Subclass for individual renters tracking legal age and driver licenses.
+  * 📄 **[Institution.java](./Institution.java)**: Subclass for business entities tracking commercial registration and custom discount rates.
+* 📂 **Services (Business Logic Layer):**
+  * 📄 **[VehiclesManagement.java](./VehiclesManagement.java)**: Controls data operations and inventory constraints for the fleet.
+  * 📄 **[CustomerManager.java](./CustomerManager.java)**: Controls client directories and profile mutation logic.
+  * 📄 **[Rentals.java](./Rentals.java)**: The core transaction entity storing rental timelines, state, and base billing.
+  * 📄 **[RentalsManager.java](./RentalsManager.java)**: The primary workflow coordinator handling rental lifecycle, check-ins, reporting, and analytic calculations.
 ---
 ## ⚙️ How It Works
 1. Run the program
@@ -111,7 +112,11 @@ This project helped me improve:
 - This repository is a reflection of my learning journey. I am aware that the current code can be further optimized, and I am actively working on refactoring and adding new features to improve its performance and structure
 ---
 ## 👨‍💻 Author
-Developed by : Mahmoud Hussain
-* Informatics Engineering Student at Damascus University.
-Focused on mastering Java, C++,OOP, and building professional technical projects.
+Developed by :{
+  "name": "Mahmoud Hussain",
+  "role": "Informatics Engineering Student",
+  "univercity": "Damascus University",
+  "focus": "Backend Development, Software Architecture , Algorithmic , Problem Solving",
+  "linkedin": "[MY_LINKEDIN](https://linkedin.com/in/mahmoud-hussein-dev)",
+  }
 ---
