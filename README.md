@@ -116,10 +116,13 @@ This project helped me improve:
 - Exception handling improvements
 - This repository is a reflection of my learning journey. I am aware that the current code can be further optimized, and I am actively working on refactoring and adding new features to improve its performance and structure
 ---
-## 👨‍💻 About the Author :
- ** name: *Mahmoud Hussain*
- ** role : Informatics Engineering Student
- ** university : Damascus University
- ** focus:  Backend Development , Software Architecture , Algorithmic , Problem Solving ....
- ** linkedin : [My account on linked_in](https://linkedin.com/in/mahmoud-hussein-dev)
+## 👨‍💻 About the Author
+
+| Profile | Details |
+| :--- | :--- |
+| **Full Name** | Mahmoud Hussain |
+| **Academic Role** | Informatics Engineering Student |
+| **University** | Damascus University |
+| **Focus Areas** | Backend Development • Software Architecture • Algorithmic Problem Solving |
+| **Connect With Me** | [📩 Official LinkedIn Profile](https://linkedin.com/in/mahmoud-hussein-dev) |
 ---
