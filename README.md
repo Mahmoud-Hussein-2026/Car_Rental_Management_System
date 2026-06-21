@@ -1,7 +1,7 @@
 # 🚗 Car Rental Management System 
 <p align="center">
   <b>English</b> • 
-  <a href="./README-AR.md">🔤 النسخة العربية</a>
+  <a href="./README_AR.md">🔤 النسخة العربية</a>
 </p>
 
 ---
