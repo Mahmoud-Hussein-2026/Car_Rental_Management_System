@@ -1,20 +1,17 @@
-# 🚗 Car Rental Management System (Java OOP Project)
+# 🚗 Car Rental Management System 
 
 ## 📌 Overview
 
 This project is a console-based Car Rental Management System developed using Java and Object-Oriented Programming (OOP) principles.
 
 It simulates a real-world rental company system that manages:
-
 - Vehicles
 - Customers
 - Rental contracts
 - Revenue reports
 
 The system is fully interactive using a menu-driven console interface.
-
 ---
-
 ## 🧠 Key Features
 
 ### 🚙 Vehicle Management
@@ -94,25 +91,7 @@ The project is built using OOP principles:
 
 ---
 ## 📁 Project Structure
-
-com.example
-│
-├── Vehicle (abstract)
-├── Car
-├── Motorcycle
-├── Truck
-│
-├── Customer (abstract)
-├── Person
-├── Institution
-│
-├── VehiclesManagement
-├── CustomerManager
-├── Rentals
-├── RentalsManager
-│
-└── Main
-
+com.example │ ├── Main.java │ ├── Vehicle (abstract) ├── Car.java ├── Motors.java ├── Truck.java │ ├── Customer (abstract) ├── Person.java ├── Institution.java │ ├── VehiclesManagement.java ├── CustomerManager.java ├── Rentals.java ├── RentalsManager.java
 ---
 
 ## ⚙️ How It Works
@@ -157,11 +136,13 @@ This project helped me improve:
 - Add login system (Admin / User roles)
 - Export reports to files
 - Exception handling improvements
+- This repository is a reflection of my learning journey. I am aware that the current code can be further optimized, and I am actively working on refactoring and adding new features to improve its performance and structure
 
 ---
 
 ## 👨‍💻 Author
+Developed by : Mahmoud Hussain
 
-Developed by: Mahmoud Hussein
-
+Informatics Engineering Student at Damascus University.
+Focused on mastering Java, C++,OOP, and building professional technical projects.
 ---
