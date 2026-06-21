@@ -124,5 +124,7 @@ This project helped me improve:
 | **Academic Role** | Informatics Engineering Student |
 | **University** | Damascus University |
 | **Focus Areas** | Backend Development • Software Architecture • Algorithmic Problem Solving |
-| **Connect With Me** | [📩 Official LinkedIn Profile](https://linkedin.com/in/mahmoud-hussein-dev) |
+| **Connect With Me** | [📩 Official LinkedIn Profile](https://linkedin.com/in/mahmoud-hussein-dev) |  
+
+
 ---
