@@ -1,5 +1,10 @@
 # 🚗 Car Rental Management System 
+<p align="center">
+  <b>English</b> • 
+  <a href="./README-AR.md">🔤 النسخة العربية</a>
+</p>
 
+---
 ## 📌 Overview
 This project is a console-based Car Rental Management System developed using Java and Object-Oriented Programming (OOP) principles.
 It simulates a real-world rental company system that manages:
