@@ -63,7 +63,7 @@ The project is built using OOP principles:
 - ArrayList Collections
 ---
 ## 📁 Project Structure
-* 📄 **[Main.java](./Main.java)**: The main execution gateway managing the interactive multi-level console menus.
+  * 📄 **[Main.java](./Main.java)**: The main execution gateway managing the interactive multi-level console menus.
 * 📂 **Models (Domain Domain Layer):**
   * 📄 **[Vehicle.java](./Vehicle.java)**: Abstract base class representing core vehicle metadata.
   * 📄 **[Car.java](./Car.java)**: Handles standard vehicle specifications, including fuel and comfort features.
@@ -111,12 +111,12 @@ This project helped me improve:
 - Exception handling improvements
 - This repository is a reflection of my learning journey. I am aware that the current code can be further optimized, and I am actively working on refactoring and adding new features to improve its performance and structure
 ---
-## 👨‍💻 Author
-Developed by :{
-  "name": "Mahmoud Hussain",
-  "role": "Informatics Engineering Student",
-  "univercity": "Damascus University",
-  "focus": "Backend Development, Software Architecture , Algorithmic , Problem Solving",
-  "linkedin": "[MY_LINKEDIN](https://linkedin.com/in/mahmoud-hussein-dev)",
+## 👨‍💻 About the Author :
+
+ . name: *Mahmoud Hussain*
+ . role : Informatics Engineering Student
+ . university : Damascus University
+ . focus:  Backend Development , Software Architecture , Algorithmic , Problem Solving ....
+ . linkedin : [My account on linked_in](https://linkedin.com/in/mahmoud-hussein-dev)
   }
 ---
